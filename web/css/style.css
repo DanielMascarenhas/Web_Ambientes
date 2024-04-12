@@ -1,0 +1,48 @@
+body{
+
+    background-color: #5664e2;
+    color: white;
+    margin: 0;
+  }
+  
+
+
+  h1, h2{
+      color:rgb(0, 179, 255);
+      text-align:center;
+  }
+
+  h1{
+    text-transform: uppercase;
+  }
+  p{
+    text-align: justify;
+  
+  }
+
+  header{
+    background-color: rgb(20, 20, 20);
+    color: black;
+
+  }
+
+  main{
+    margin: auto 20%;
+  }
+
+  .destaque{
+    background-color: brown;
+    color: azure;
+    padding: 20px;
+    margin-bottom: 20px;
+
+  }
+#img-log{
+  width: 100px;
+}
+
+  
+footer{
+  background-color: white;
+    color: black;
+}
