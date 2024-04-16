@@ -3,6 +3,7 @@ body{
     background-color: #5664e2;
     color: white;
     margin: 0;
+    justify-content: center;
   }
   
 
@@ -21,9 +22,10 @@ body{
   }
 
   header{
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(91, 114, 177);
     color: black;
-
+    align-items: center;
+    width: 100%;
   }
 
   main{
@@ -31,18 +33,35 @@ body{
   }
 
   .destaque{
-    background-color: brown;
+    background-color: rgb(42, 165, 69);
     color: azure;
     padding: 20px;
     margin-bottom: 20px;
 
   }
+
 #img-log{
   width: 100px;
+  margin-right: 520px;
 }
 
   
 footer{
   background-color: white;
-    color: black;
+  color: black;
+}
+
+#titulo{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+#Algoritmos{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  margin-right: 650px;
 }
